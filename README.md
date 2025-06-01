@@ -12,7 +12,7 @@ This repository contains two Bash scripts for basic file and directory operation
 ## Installation
 1. **Clone the Repository**:
 ```bash```
-git clone https://github.com/samthecloudgenie/file-scripts-repo.git
+git clone https://github.com/Franklyn101/file-script
 cd file-scripts-repo 
 
 ### 1. `check_file.sh`
